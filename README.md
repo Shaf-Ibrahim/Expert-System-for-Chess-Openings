@@ -12,3 +12,9 @@ understanding of how chess experts advise beginner and intermediate level player
 former chess coach over the course of several weeks, asking different questions regarding the process of calibrating an
 appropriate set of chess openings for a player. Upon gathering the information from these interviews, I translated it into
 sets of rules that represent this process.
+
+# Challenges
+Challenges in creating this expert system include:
+* Converting answers from the interviews into comprehensive sets of rules
+* Adopting the functional-based programming paradigm w/o emulating OOP
+* Implementing backward chaining to make pattern matching more efficient
