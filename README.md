@@ -16,5 +16,11 @@ sets of rules that represent this process.
 # Challenges
 Challenges in creating this expert system include:
 * Converting answers from the interviews into comprehensive sets of rules
+* Expanding the system to accomodate players of various skill levels
 * Adopting the functional-based programming paradigm w/o emulating OOP
 * Implementing backward chaining to make pattern matching more efficient
+* Designing a comprehensive algorithm that takes into account several factors of a player's playstyle
+
+# Outcome
+Upon completion, my system could recommend up to 12 openings, including white and black openings. The scope of this project was limited to only players at the beginner and intermediate levels to accomodate the time constraint, which was around one 
+semester of the school year. Over the duration of the project, I became more accustomed to the CLIPS syntax and the fundamentals of procedural programming, a new design paradigm that made me approach problems differently. I also had to put my feet in the shoes of the user and think about the characteristics a chess player would consider when playing a certain opening. Overall, this project enabled me to learn a new language and gain experience in the development of a client-based product
